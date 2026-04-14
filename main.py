@@ -1,11 +1,4 @@
 # main.py
-"""
-Main GUI for Smart File Organizer v3.0
-- dark mode styling with ttk.Style
-- Manage Rules window to add/edit/delete categories & extensions (uses rules_manager)
-- safe copy before organizing (organizer_core.safe_copy_folder)
-- preview, start, undo, open logs
-"""
 
 import threading
 import tkinter as tk
